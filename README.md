@@ -1,7 +1,7 @@
 <h1><b><u>How to install</u></b></h1>
-Take all files and put it in the bot folder, that update the options.inc.php file with your own settings (included the bot API Token). After doing that open with your browser the START.php (just first time, after installed files)
+Take all files and put it in the bot folder, that update the options.inc.php file with your own settings (included the bot API Token). After doing that open with your browser the START.php (just first time, after installed files)<br><br>
 
-Wait and that delete the START.php file
+Wait and then delete the START.php file<br>
 Then, IT'S ALL DONE!
 
 <h1>Features</h1>
